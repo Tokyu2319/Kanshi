@@ -57,7 +57,7 @@ Nelu steered her ship to head south and leaves the helm to enter the cabin. Nelu
 The ship continues to head south without Nelu’s manipulation. Nelu goes outside the cabin to check the ship’s trajectory while still holding the book. Nelu occasionally goes back a page and rereads a passage before looking ahead of the ship. Nelu goes back to the cabin.  
   
 12:22  
-Nelu finishes her reading and goes to the lowest deck to head towards the galley.[^4] Nelu arrives at the galley and scanned the room before heading to the ship’s hold.[^5] Nelu arrives at the hold.  
+Nelu finishes her reading and goes to the lowest deck to head towards the galley. Nelu arrives at the galley and scanned the room before heading to the ship’s hold. Nelu arrives at the hold.  
   
 Nelu: <Ah poop. I forgot to stock up. Well, doesn’t look like I’ll die in the next week or so.>  
   
@@ -69,7 +69,7 @@ Nelu goes back to the galley with her tea and prepares the equipment needed for 
   
 Nelu: <Hah. No way.>  
   
-Nelu picks up a cup from the galley and leaves to go back to the hold. On her way there, she filled her cup with water she acquired from the city and begins to steadily boil it using manokinesis.[^6] Nelu puts her tea inside the cup of hot water, she then stacks 3 crackers to hold them on one hand. Nelu goes up to the main deck.  
+Nelu picks up a cup from the galley and leaves to go back to the hold. On her way there, she filled her cup with water she acquired from the city and begins to steadily boil it using manokinesis.[^4] Nelu puts her tea inside the cup of hot water, she then stacks 3 crackers to hold them on one hand. Nelu goes up to the main deck.  
   
 12:27  
 Cloud coverage: 3 oktas  
@@ -77,7 +77,7 @@ Wind: 2 m/s from 259º
 Nelu sits down on the stairs leading up to the helm and eats her lunch. Nelu takes a considerably long time to chew the crackers and seems to have a hard time swallowing them. This behavior has occurred before when Nelu had to eat kale (and similar vegetables).  
   
 12:30  
-Nelu finishes her meal and goes back down to the galley. Nelu arrives at the galley and approaches the galley’s tub which contained the brush she used to clean the barrel from yesterday. Nelu places her cup inside the tub and opens her bag to grab her soap and knife. Nelu unwraps the soap and shaves a small amount of it into the cup. Nelu wraps the soap and places the knife and the soap inside her bag. Nelu pours a small amount of water from her canteen into the cup and begins washing the cup. Nelu rinses the soap off the cup and hangs the cup in the galley, then she lifts the tub to pour the dirty water into a drain. Nelu dries her hands by flicking them over the drain and patting them on her pants. Afterwards, Nelu heads to the powder magazine.[^7]  
+Nelu finishes her meal and goes back down to the galley. Nelu arrives at the galley and approaches the galley’s tub which contained the brush she used to clean the barrel from yesterday. Nelu places her cup inside the tub and opens her bag to grab her soap and knife. Nelu unwraps the soap and shaves a small amount of it into the cup. Nelu wraps the soap and places the knife and the soap inside her bag. Nelu pours a small amount of water from her canteen into the cup and begins washing the cup. Nelu rinses the soap off the cup and hangs the cup in the galley, then she lifts the tub to pour the dirty water into a drain. Nelu dries her hands by flicking them over the drain and patting them on her pants. Afterwards, Nelu heads to the powder magazine.[^5]  
   
 12:36  
 Nelu arrives at the magazine and inspects the barrels one by one.  
@@ -170,7 +170,5 @@ From 13:00 to 20:02, Nelu’s adjustments on the lantern may have involved the u
 [^1]: **Sympan-unique birthmarks** are ████ ██ █ ███ █ ███ ████ █ ███ ████ ███. These birthmarks illuminate under specific conditions, but Nelu’s makeup makes it difficult to observe this phenomenon, preventing us from determining whether she is using her ability.  
 [^2]: **Davits** are pivoting arms mounted on a ship, used to raise and lower boats over its side. **Block-and-tackle rigging** is a system of ropes threaded through multiple pulleys, allowing a heavy load to be lifted with less force.  
 [^3]: Lashing the helm fixes the rudder at a set angle with rope. When the sails are trimmed so that their forces balance against it, the ship holds a steady course without a helmsman, as long as the wind does not change.  
-[^4]: A **galley** is the dedicated kitchen area on a ship designed with a layout to safely prepare food while underway.  
-[^5]: A **ship's hold** (or **cargo hold**) is the storage compartment located inside a ship's hull used to carry and protect bulk or packaged goods.  
-[^6]: Nelu was able to preserve the manon she created yesterday.  
-[^7]: The **powder magazine** is the dedicated compartment used to safely store gunpowder, cartridges, and ammunition.
+[^4]: Nelu was able to preserve the manon she created yesterday.  
+[^5]: The **powder magazine** is the dedicated compartment used to safely store gunpowder, cartridges, and ammunition.

@@ -129,8 +129,8 @@ Nelu picks up her equipment and looks at the assailants’ ship. Their ship has 
 [^1]: **Okta** is a unit of measurement in meteorology used to represent the fraction of the sky covered by clouds, where one okta equals one-eighth (1/8) of the sky dome.  
 [^2]: Measurements are given using the metric system.  
 [^3]: **Sodomite** is a person who engages in a romantic or sexual relationship with another person of the same sex; the term may also be applied to men who exhibit feminine behavior or women who exhibit masculine behavior.  
-[^4]: A **galley** is the designated kitchen area on a ship or other watercraft where food is prepared, cooked, and/or stored.  
-[^5]: The **hold** of a ship (or cargo hold) is the large interior compartment inside the hull used to store and transport goods, cargo, or bulk materials.  
+[^4]: A **galley** is the dedicated kitchen area on a ship designed with a layout to safely prepare food while underway.  
+[^5]: A **ship's hold** (or **cargo hold**) is the storage compartment located inside a ship's hull used to carry and protect bulk or packaged goods.  
 [^6]: **Grog** is a maritime drink made by diluting rum with water.  
 [^7]: **Hylogenesis** is the conversion of mana into matter.  
 [^8]: **Manokinesis** is the manipulation of manon to exert force on objects. Nelu’s usage here is instinctive as she would not know the physics of heating water using mechanical force.  

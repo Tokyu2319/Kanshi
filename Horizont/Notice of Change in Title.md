@@ -18,4 +18,5 @@ We appreciate your attention to this matter.
 Sincerely,  
 Strict and mature Sabitha  
   
-> [!tip] These pages use footnotes. If you prefer reading them as hover previews (instead of jumping to the bottom of the page), we recommend using the free [Refined GitHub](https://github.com/refined-github/refined-github) browser extension.
+> [!tip]   
+> These pages use footnotes. If you prefer reading them as hover previews (instead of jumping to the bottom of the page), we recommend using the free [Refined GitHub](https://github.com/refined-github/refined-github) browser extension.

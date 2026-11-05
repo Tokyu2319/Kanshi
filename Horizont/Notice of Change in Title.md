@@ -3,7 +3,7 @@ share: true
 ---
 Dear Slothful and carefree Sabitha,  
   
-Following an administrative review of your recent conduct and performance, the Library Administration has decided to demote you from your current title as Slothful and carefree Sabitha to Saba, effective immediately.  
+Following an administrative review of your recent conduct and performance, the Library Alhazen Administration has decided to demote you from your current title as Slothful and carefree Sabitha to Saba, effective immediately.  
   
 This decision was reached after careful consideration of your performance, adherence to institutional policies, and fulfillment of your assigned responsibilities.  
   
@@ -11,7 +11,7 @@ Your duties and authority will be adjusted to reflect your new title. Further de
   
 You are expected to complete the transfer of your current responsibilities, including the submission of relevant records and the return of any institutional materials that are no longer required for your new title.  
   
-Should you require clarification regarding this decision, please contact the Library Administration.  
+Should you require clarification regarding this decision, please contact the Library Alhazen Administration.  
   
 We appreciate your attention to this matter.  
   

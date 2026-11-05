@@ -1,19 +1,1 @@
-# Content Warning
-These works may contain fictional depictions of:
-- Racism and discrimination
-- Violence and gore
-- Psychological distress
-- Offensive language
-- ...
 
-These works are pieces of fiction and may contain depictions of prejudice, discrimination, racism, xenophobia, ethnic stereotypes, offensive language, violence, and other themes that some readers may find distressing.
-
-Such content is included for narrative, historical, cultural, or character-development purposes and does not necessarily reflect the views or beliefs of the author.
-
-Characters within this story may express opinions, attitudes, or use language that is offensive or objectionable. These portrayals are intended to represent the characters and setting, not to endorse such views.
-
-Reader discretion is advised.
-
-
-> [!TIP]
-> **Best Reading Experience:** This document uses footnotes. If you prefer reading them as hover previews (instead of jumping to the bottom of the page), I recommend using the free [Refined GitHub]([https://github.com](https://github.com/refined-github/refined-github)) browser extension.

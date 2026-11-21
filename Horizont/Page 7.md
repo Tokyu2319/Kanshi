@@ -6,7 +6,7 @@ share: true
 Kell possesses a fit physique, standing 184 cm tall and weighing 73 kg. Kell‘s skin is light beige in colour.  
   
 ## A.2. Hair  
-Kell has straight, black hair measuring 45 cm in length. ==Kell’s hair is arranged in a halo braid encircling the head, with the remaining hair flowing freely down the back.==  
+Kell has straight, black hair measuring 45 cm in length. <mark>Kell’s hair is arranged in a halo braid encircling the head, with the remaining hair flowing freely down the back.</mark>  
   
 ## A.3. Facial Features  
 Kell’s facial features strongly resemble those of Yokose Rei, the female genetic donor from whom Kell’s genetic material was derived. Despite the strong resemblance between Kell’s and Yokose Rei’s facial features, Kell has brown irises and a straighter nasal bridge than her genetic donor.  

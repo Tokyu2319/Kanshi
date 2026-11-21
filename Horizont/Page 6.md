@@ -2,9 +2,8 @@
 share: true
 ---
 # 23·11·1126  
-10:28 — Northernmost part of North Alkeluna  
-Cloud Coverage: 2 oktas  
-Wind: 2.1 m/s from 002º  
+10:28 — Surface position is 31° 33′ 23″ N, 3° 30′ 20″ W.  
+  
 Kell alongside Ren, found a discarded black heavy wool greatcoat.  
   
 Kell: <Hey! This’ll cover you up good.>  
@@ -28,9 +27,9 @@ Kell and Ren left the abandoned farmhouse and headed further south.
   
 Ren: <You’d think we’d find people by now. I’m seeing no one.>  
   
-Kell: <Maybe we’re… threading the needle?>  
+Kell: <Maybe we’re… threading the needle? Idioms, you taught me.>  
   
-Ren: <Maybe we are, because all I see here is ruin. Lift me up.>  
+Ren: <I don’t think that applies here. Lift me up.>  
   
 Kell: <Okay.>  
   
@@ -197,10 +196,10 @@ Kell lets out an adorable laugh. Ren bursts into laughter.
 18:07  
 Kell and Ren recovers from the moment of joy.  
   
-Ren: <I’m gonna remember this.>  
+Ren: <…Also, those were not mangoes.>  
   
 ---  
   
-At 18:09, Kell and Ren began playing blindfold chess.[^1] Their game concluded at 22:19, with Ren emerging victorious. Afterward, Kell hugged Ren, and the two of them went to sleep.  
+At 18:09, Kell and Ren began playing blindfold chess.[^1] Their game concluded at 22:00, with Kell resigning after move no. 77. Afterward, Kell hugged Ren, and the two of them tried to sleep. Ren, however, could not accept the victory and insisted on continuing their game. Thus, the two resumed playing, eventually reaching move no. 95, when Kell was checkmated at 22:19.  
   
 [^1]: **Blindfold chess** is a variation of chess where the players play a game without seeing or touching the physical pieces.

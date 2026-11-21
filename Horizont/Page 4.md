@@ -2,11 +2,9 @@
 share: true
 ---
 # 12·11·1126  
-05:30 — Port city of Hinland.  
-Cloud coverage: 5 oktas  
-Wind: 1.2 m/s from 009º  
+05:30 — Surface position is 50° 17′ 39″ N, 3° 38′ 44″ W.  
   
-Nelu wakes up in the bed belonging to the brothel she stayed in the previous night. For clarification, Nelu did not have sexual intercourse with the worker. Nelu picks up her belongings and ties her hair into a bun. Nelu applies a substance (a combination of donkey milk and arrowroot starch) below her eyes, covering her sympan-unique birthmark.[^1]  
+Nelu wakes up in the bed belonging to the brothel she stayed in the previous night. For clarification, Nelu did not have sexual intercourse with the worker. Nelu picks up her belongings and ties her hair into a bun. Nelu applies a substance (a combination of donkey milk and arrowroot starch) below her eyes, covering her anecho birthmark.[^1]  
   
 05:32  
 Nelu finished applying the makeup. Eliza (the brothel worker’s alias) wakes up.  
@@ -42,8 +40,6 @@ Nelu: <Self-correcting and gunpowder. Gunpowder I can get along the way, I’ll 
 Otis Kretschmann initiated a pursuit on Nelu. Otis appears to have more scars on his corpus than the last time we saw him. Nelu is unaware of Otis’ presence, she continued in trimming the sails.  
   
 07:46  
-Cloud coverage: 6 oktas  
-Wind: 9.2 m/s from 252º  
 Otis abated the pursuit and dived deeper.  
   
 08:21  
@@ -72,8 +68,6 @@ Nelu: <Hah. No way.>
 Nelu picks up a cup from the galley and leaves to go back to the hold. On her way there, she filled her cup with water she acquired from the city and begins to steadily boil it using manokinesis.[^4] Nelu puts her tea inside the cup of hot water, she then stacks 3 crackers to hold them on one hand. Nelu goes up to the main deck.  
   
 12:27  
-Cloud coverage: 3 oktas  
-Wind: 2 m/s from 259º  
 Nelu sits down on the stairs leading up to the helm and eats her lunch. Nelu takes a considerably long time to chew the crackers and seems to have a hard time swallowing them. This behavior has occurred before when Nelu had to eat kale (and similar vegetables).  
   
 12:30  
@@ -167,7 +161,26 @@ Nelu is visibly exhausted. Nelu goes to her bed, takes off her shoes, places her
 Nelu’s ship is now designated ‘The Battel’.  
 From 13:00 to 20:02, Nelu’s adjustments on the lantern may have involved the use of precognition.  
   
-[^1]: **Sympan-unique birthmarks** are ████ ██ █ ███ █ ███ ████ █ ███ ████ ███. These birthmarks illuminate under specific conditions, but Nelu’s makeup makes it difficult to observe this phenomenon, preventing us from determining whether she is using her ability.  
+---  
+# 13·11·1126  
+06:32 — Surface position approximately 44° 10' 42" N, 13° 28' 57" W.  
+  
+The Battel, Nelu’s ship, is heading south at a speed of 2.5 metres per second. Nelu is on the bed and appears fatigued suggesting that she did not have much sleep last night. Nelu gets up from her bed, heads to the ship’s railings and begins violently coughing.  
+  
+06:38  
+Nelu recovers from her coughing fit, she kneels down with her hands on the railings and begins sobbing.  
+  
+06:45  
+Nelu stands up and heads to the ship’s hold. Nelu is preparing breakfast.  
+  
+06:56  
+Nelu’s breakfast is a stew consisting of salted meats, onions, garlic, and tomato. Nelu heads up to the main deck, sits down on the helm’s stairs, and begins eating.  
+  
+---  
+  
+From 07:00 to 18:00, Nelu made herself a routine consisting of cleaning, inventory management, and reading the books inside the ship’s cabin. At 18:01, Nelu paces from the front of the ship to the back of the ship. At 18:18, Nelu tires herself and goes to her bed.  
+  
+[^1]: **Anecho birthmarks** confirm a being's status as an anecho, though Nelu's status remains unverified until she meets Charlotte. These birthmarks illuminate under specific conditions, but Nelu’s makeup makes it difficult to observe this phenomenon, preventing us from determining whether she is using her ability.  
 [^2]: **Davits** are pivoting arms mounted on a ship, used to raise and lower boats over its side. **Block-and-tackle rigging** is a system of ropes threaded through multiple pulleys, allowing a heavy load to be lifted with less force.  
 [^3]: Lashing the helm fixes the rudder at a set angle with rope. When the sails are trimmed so that their forces balance against it, the ship holds a steady course without a helmsman, as long as the wind does not change.  
 [^4]: Nelu was able to preserve the manon she created yesterday.  

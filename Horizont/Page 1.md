@@ -2,10 +2,13 @@
 share: true
 ---
 # 11·11·1126  
-11:11 — Sea of Franset.  
-Cloud coverage: 2 oktas[^1]  
-Wind: 4 m/s from 268º[^2]  
+11:11 — Surface position approximately 49° 31′ 09″ N, 2° 35′ 38″ E.  
+  
+---  
+  
 To recapitulate, Nelu had successfully stolen a merchant ship and is now exploring its contents.  
+  
+---  
   
 Nelu seems confident that the ship is empty. After checking the ship for 10 minutes, Nelu confirms that the ship is empty.  
   
@@ -44,20 +47,20 @@ Nelu leaves the bed to dry. Nelu picks up a feather duster from the cabin to dus
   
 Nelu: <Navigation, manuals, medicine, maritime Laws, yada-yada…>  
   
-Nelu finds a book containing instructions for identifying and avoiding sodomites, as well as legal procedures governing the use of torture to extract confessions from them during trials.[^3] Nelu covers her mouth with her left hand while her other hand holds the book. Nelu closes the book and takes it outside to throw it into the sea. Nelu‘s face appears disgusted.  
+Nelu finds a book containing instructions for identifying and avoiding sodomites, as well as legal procedures governing the use of torture to extract confessions from them during trials.[^1] Nelu covers her mouth with her left hand while her other hand holds the book. Nelu closes the book and takes it outside to throw it into the sea. Nelu‘s face appears disgusted.  
   
 Nelu: <I feel dirty now…>  
   
 11:39  
-Nelu heads to the galley of the ship.[^4] Nelu arrives at the galley and picks up a brush from a tub and puts it in a bag. Nelu heads to the hold of the ship.[^5] Nelu arrives at the hold and inspects a barrel full of grog.[^6] Nelu proceeds to inspect more barrels full of grog until deciding to roll one up onto the main deck.  
+Nelu heads to the galley of the ship.[^2] Nelu arrives at the galley and picks up a brush from a tub and puts it in a bag. Nelu heads to the hold of the ship.[^3] Nelu arrives at the hold and inspects a barrel full of grog.[^4] Nelu proceeds to inspect more barrels full of grog until deciding to roll one up onto the main deck.  
   
 11:49  
 Nelu discards the contents of the barrel into the sea. Nelu opens her bag and grabs her soap, knife, and brush. Nelu shaves her soap into the empty barrel and after shaving a small amount of soap, she puts the soap inside her bag. Nelu pours water from her canteen into the barrel and begins cleaning the barrel. After cleaning the barrel for 8 minutes, Nelu pours water inside the barrel to rinse the soap off then discard its contents.  
   
 11:57  
-After making sure that the barrel is clean, Nelu puts her hand over the barrel and uses hylogenesis[^7] to fill the barrel with water. The temperature of the water inside the barrel shows 17ºC. Nelu used manokinesis[^8] to heat up the water inside the barrel to a desired temperature. After 15 minutes of agitating the water, the temperature of the water inside the barrel shows 38ºC. Nelu takes off her bag, her garments, her undergarments, and unties her hair. Nelu puts herself feet first into the warm water.  
+After making sure that the barrel is clean, Nelu puts her hand over the barrel and uses hylogenesis[^5] to fill the barrel with water. The temperature of the water inside the barrel shows 17ºC. Nelu used manokinesis[^6] to heat up the water inside the barrel to a desired temperature. After 15 minutes of agitating the water, the temperature of the water inside the barrel shows 38ºC. Nelu takes off her bag, her garments, her undergarments, and unties her hair. Nelu puts herself feet first into the warm water.  
   
-Nelu: Haaa… <That’s nice. Haven’t used magic that much. It’s a lot of mana[^9], but it’s not like I’m gonna use magic all that often out here.>  
+Nelu: Haaa… <That’s nice. Haven’t used magic that much. It’s a lot of mana[^7], but it’s not like I’m gonna use magic all that often out here.>  
   
 12:48  
 Nelu: Ah. <I forgot the towel. No one’s looking, right? I can— Who am I kidding? I just bathed in the open!>  
@@ -72,8 +75,6 @@ Nelu: <This is stupid. I’ve found more maps than towels. This is actually stup
 Nelu heads to the helm of the ship. This is Nelu’s second time trying to operate a ship after the heist she did in order to escape this ship’s owners and the law enforcers. Despite Nelu’s lack of experience, she quickly learned to steer her ship towards her desired location.  
   
 13:06  
-Cloud coverage: 2 oktas  
-Wind: 3.8 m/s from 269º  
 Nelu arrived at her destination.  
   
 Nelu: \<Looks like company.>  
@@ -82,11 +83,11 @@ Nelu sees another ship anchored near the shore of the island.
   
 Nelu: <Better announce myself. Don’t wanna give any kind of misunderstanding.>  
   
-Nelu steps back from the helm as a lead ball was fired from the shore toward her. Nelu’s ship was 92 m from the shore. Nelu’s movement preceded the projectile’s arrival by approximately 0.8 seconds. No apparent auditory, visual, or physical stimulus was identified that would reasonably explain the movement.[^10]  
+Nelu steps back from the helm as a lead ball was fired from the shore toward her. Nelu’s ship was 92 m from the shore. Nelu’s movement preceded the projectile’s arrival by approximately 0.8 seconds. No apparent auditory, visual, or physical stimulus was identified that would reasonably explain the movement.[^8]  
   
 Nelu: <Huh. Maybe they just— misfired?>  
   
-Nelu steps back again and another ball passes her.[^10]  
+Nelu steps back again and another ball passes her.[^8]  
   
 Nelu: <Okay, these folks don’t seem that friendly.>  
   
@@ -96,9 +97,12 @@ Nelu: <Two, three… four, five… six, and seven.>
   
 Nelu fired her weapon an additional 6 times and 6 assailants dropped against the sand. Nelu reloads her pistol with another magazine.  
   
-Nelu: <The rest of them probably don’t have guns. I’ll just use my sword to fend them off if they return.>  
+Nelu: <The rest of them probably don’t have guns. I’ll just use my saber to fend them off if they return.>  
   
-Nelu takes off her puttees, her shoes, her socks, and rolls her pants up. Nelu anchors her ship near the shore and goes down to the shallows by rope. Nelu proceeds to search the seven bodies. All of which have muskets on their person. One had whiskey which Nelu took for herself. 7 are confirmed deceased.  
+Nelu takes off her puttees, her shoes, her socks, and rolls her pants up. Nelu anchors her ship near the shore and goes down to the shallows by rope. Nelu proceeds to search the seven bodies. All of which have muskets on their person. One had whiskey which Nelu took for herself.  
+  
+13:11  
+7 assailants are confirmed deceased.  
   
 Nelu: <It’s just me and how many is in that ship and how many is in this island. I’m gonna take care of their ship first.>  
   
@@ -121,18 +125,16 @@ Nelu eats the vegetables first, blowing on her spoon to cool each bite. After fi
   
 Nelu: Hah… <Finally!>  
   
-Nelu opens the small crab by first cracking it with the hilt of her sword and prying it with her spoon. Nelu finished her meal in a series of cracking and prying.  
+Nelu opens the small crab by first cracking it with the hilt of her saber and prying it with her spoon. Nelu finished her meal in a series of cracking and prying.  
   
 14:21  
 Nelu picks up her equipment and looks at the assailants’ ship. Their ship has finally fallen on itself due to the fire. Nelu climbs up the rope, raises her ship’s anchor, and set course to another destination.  
   
-[^1]: **Okta** is a unit of measurement in meteorology used to represent the fraction of the sky covered by clouds, where one okta equals one-eighth (1/8) of the sky dome.  
-[^2]: Measurements are given using the metric system.  
-[^3]: **Sodomite** is a person who engages in a romantic or sexual relationship with another person of the same sex; the term may also be applied to men who exhibit feminine behavior or women who exhibit masculine behavior.  
-[^4]: A **galley** is the dedicated kitchen area on a ship designed with a layout to safely prepare food while underway.  
-[^5]: A **ship's hold** (or **cargo hold**) is the storage compartment located inside a ship's hull used to carry and protect bulk or packaged goods.  
-[^6]: **Grog** is a maritime drink made by diluting rum with water.  
-[^7]: **Hylogenesis** is the conversion of mana into matter.  
-[^8]: **Manokinesis** is the manipulation of manon to exert force on objects. Nelu’s usage here is instinctive as she would not know the physics of heating water using mechanical force.  
-[^9]: **Mana** is the resource used for thaumical practices and a required resource to maintain the coherence between a being’s constituents.  
-[^10]: Possible precognitive event.
+[^1]: **Sodomite** is a person who engages in a romantic or sexual relationship with another person of the same sex; the term may also be applied to men who exhibit feminine behavior or women who exhibit masculine behavior.  
+[^2]: A **galley** is the dedicated kitchen area on a ship designed with a layout to safely prepare food while underway.  
+[^3]: A **ship's hold** (or **cargo hold**) is the storage compartment located inside a ship's hull used to carry and protect bulk or packaged goods.  
+[^4]: **Grog** is a maritime drink made by diluting rum with water.  
+[^5]: **Hylogenesis** is the conversion of mana into matter.  
+[^6]: **Manokinesis** is the manipulation of manon to exert force on objects. Nelu’s usage here is instinctive as she would not know the physics of heating water using mechanical force.  
+[^7]: **Mana** is the resource used for thaumical practices and a required resource to maintain the coherence between a being’s constituents.  
+[^8]: Possible precognitive event.

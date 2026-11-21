@@ -2,37 +2,37 @@
 share: true
 ---
 # 25·10·1126  
-21:00 — Inside an underground facility.  
+21:00 — Surface position is 37° 11′ 01″ N, 4° 30′ 36″ W. Depth is 780 metres[^1] below the planet’s surface.  
   
 ---  
   
-To recapitulate, there are 2 individuals designated ’A’ and ‘B’. A is inside a glass cylinder submerged in a clear liquid and is wearing a mask equipped with an endotracheal tube. B is lying back on a table with electrodes attached to her scalp, the electrodes are connected to a galvanometer.[^1] A and B are unconscious.  
+To recapitulate, there are 2 individuals designated ’Tatty’ and ‘Eepy’. Tatty is inside a glass cylinder submerged in a clear liquid and is wearing a mask equipped with an endotracheal tube. Eepy is lying back on a table with electrodes attached to her scalp, the electrodes are connected to a galvanometer.[^2] Tatty and Eepy are unconscious.  
   
 ---  
   
-A wakes up inside her containment for the very first time. A’s first reaction to waking up is looking at B for a period of 5 hours, 16 minutes, and 40 seconds. A had done nothing else during that time except watching B.  
-After that period, A looked at her hands and, similar to that of a toddler, began making gestures. A then pressed her hands onto the glass containing her and began watching B for the remainder of the day.  
+Tatty wakes up inside her containment for the very first time. Tatty’s first reaction to waking up is looking at Eepy for a period of 5 hours, 16 minutes, and 40 seconds. Tatty had done nothing else during that time except watching Eepy.  
+After that period, Tatty looked at her hands and, similar to that of a toddler, began making gestures. Tatty then pressed her hands onto the glass containing her and began watching Eepy for the remainder of the day.  
   
 # 26·10·1126  
 04:16  
-Josef Menzel enters the room where A and B reside in. He notices that A has woken up, but runs medical checks on B first. A is slapping at the glass, her reaction is presumed to be distress. Her action turns from slapping to pounding before falling asleep due to an automatic administration of anesthesia.  
+Josef Menzel enters the room where Tatty and Eepy reside in. He notices that Tatty has woken up, he runs medical checks on Eepy. Tatty is slapping at the glass, her reaction is presumed to be distress. Her action turns from slapping to pounding before falling asleep due to an automatic administration of anesthesia.  
   
 15:44  
-A wakes up to see Josef absent. A stares at B for the remainder of the day.  
+Tatty wakes up to see Josef absent. Tatty stares at Eepy for the remainder of the day.  
   
 # 27·10·1126  
 04:02  
-Josef enters the room and A averts her attention from B to Josef. Josef puts his bag on a desk and opens it, revealing the following: documents, blank papers, picture books, and a pen.  
+Josef enters the room and Tatty averts her attention from Eepy to Josef. Josef puts his bag on a desk and opens it, revealing the following: documents, blank papers, picture books, and a pen.  
   
-Josef approaches the containment for A and puts his right hand on the glass. After a pause, A responds by pressing her left hand on the same place Josef is pressing. A then pressed her right hand and Josef responds by pressing his left hand on where A’s right hand is placing.  
+Josef approaches the containment for Tatty and puts his right hand on the glass. After a pause, Tatty responds by pressing her left hand on the same place Josef is pressing. Tatty then pressed her right hand and Josef responds by pressing his left hand on where Tatty’s right hand is placing.  
   
-Josef finishes the moment, heads to his desk and begins writing ‘Kell‘ on a blank paper. Josef approaches A again and shows the writing on the paper. ‘A’ tilted her head in confusion. Josef points at the writing then at A. A points at herself. Josef nodded and did the same gesture again and again.  
+Josef finishes the moment, heads to his desk and begins writing ‘Kell‘ on a blank paper. Josef approaches Tatty again and shows the writing on the paper. Tatty tilted her head in confusion. Josef points at the writing then at Tatty. Tatty points at herself. Josef nodded and did the same gesture again and again.  
   
-Josef heads to his desk again and wrote ‘Ren‘ on the other side of the paper. Josef approaches B and did the same gesture. It seems that A understands this interaction.  
+Josef heads to his desk again and wrote ‘Ren‘ on the other side of the paper. Josef approaches Eepy and did the same gesture. It seems that Tatty understands this interaction.  
   
 ---  
   
-A and B are now designated ’Kell’ and ’Ren’.  
+Tatty and Eepy are now designated ’Kell’ and ’Ren’.  
   
 ---  
   
@@ -40,10 +40,13 @@ After Josef establishes their identity, he moves on to his desk to pick up a pic
   
 # 11·11·1126  
 2 weeks later, Kell has recognized literacy, language, natural sciences, and empathy, all of which are defined by Josef. Whether Kell has understood these concepts is currently unknown at the time of writing.  
-Ren is lying unconscious on the table, but she’s now connected to an armature.[^2]  
+Ren is lying unconscious on the table, but she’s now connected to an armature.[^3]  
   
 09:23  
 Josef enters the room holding a hammer and places it onto Ren’s table. He then unplugs Ren from the armature and holds Ren’s head in his hands. After that, Josef grabs the hammer and strikes the glass of Kell’s containment. Kell is conscious and has been watching the whole time. After 7 hits, the bottom part of Kell’s containment shatters and liquid begins to spill into a drain. Josef pries the glass to make a bigger opening. Kell is able to slip out with her body lying on her right side, Kell is unable to stand up. Josef grabs Kell’s mask and hastily tries to remove it. Josef successfully removes the mask.  
+  
+09:24  
+The liquid is confirmed to be a saline solution consisting of pure water and salt.  
   
 Josef: <Kell, breathe! In and out.>  
   
@@ -92,9 +95,8 @@ Josef: <You’ll get to see that.>
   
 Kell: <Wow.>  
   
-09:28 — Andalia, outside the underground facility.  
-Cloud Coverage: 1 okta  
-Wind: 2 m/s from 055º  
+09:29 — Surface position is 37° 11′ 01″ N, 4° 30′ 36″ W.  
+  
 The doors open and Kell leaves the elevator.  
   
 Kell: <Wow! Is this—?>  
@@ -165,5 +167,6 @@ Kell: <Okay, Papa…>
   
 Kell stands up and turns around. Kell begins walking away from the elevator, slowly picking up pace from a gentle gait to a sprint. She sprints so fast that her legs were able to propel herself upwards into the air. During those jumps, she would look back again at Josef who became smaller and smaller in Kell’s view until her visual contact with him is lost.  
   
-[^1]: A combination of these devices produces an encephalogram, a visualization of the electrical activity of a biological cerebrum. Cerebrum, in this context, does not refer to the anatomical structure.  
-[^2]: **Armature** is an armana structure approaching the complexity of a cogito. Used for performing complicated thaumical practices.
+[^1]: Measurements are given using the metric system.  
+[^2]: A combination of these devices produces an encephalogram, a visualization of the electrical activity of a biological cerebrum. Cerebrum, in this context, does not refer to the anatomical structure.  
+[^3]: **Armatures** are armana structures used for performing complicated thaumical tasks.

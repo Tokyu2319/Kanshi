@@ -14,7 +14,7 @@ Kell’s facial features strongly resemble those of Yokose Rei, the female genet
 ## A.4. Other Distinguishing Characteristics  
 Kell possesses thermal pit organs beneath her eyes, the functions of which remain unknown.  
   
-Kell’s upper arm and the lower and middle trapezius are covered in black-ink tattoos featuring patterns resembling an integrated circuit layout.  
+Kell’s upper arms and trapezius (excluding the upper trapezius) are covered in black-ink tattoos featuring patterns resembling an integrated circuit layout.  
   
 # Appendix B - Details on Kell’s attire (11·11·1126)  
 Kell was not wearing any clothing at the time of observation.

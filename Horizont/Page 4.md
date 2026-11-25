@@ -161,25 +161,6 @@ Nelu is visibly exhausted. Nelu goes to her bed, takes off her shoes, places her
 Nelu’s ship is now designated ‘The Battel’.  
 From 13:00 to 20:02, Nelu’s adjustments on the lantern may have involved the use of precognition.  
   
----  
-# 13·11·1126  
-06:32 — Surface position approximately 44° 10' 42" N, 13° 28' 57" W.  
-  
-The Battel, Nelu’s ship, is heading south at a speed of 2.5 metres per second. Nelu is on the bed and appears fatigued suggesting that she did not have much sleep last night. Nelu gets up from her bed, heads to the ship’s railings and begins violently coughing.  
-  
-06:38  
-Nelu recovers from her coughing fit, she kneels down with her hands on the railings and begins sobbing.  
-  
-06:45  
-Nelu stands up and heads to the ship’s hold. Nelu is preparing breakfast.  
-  
-06:56  
-Nelu’s breakfast is a stew consisting of salted meats, onions, garlic, and tomato. Nelu heads up to the main deck, sits down on the helm’s stairs, and begins eating.  
-  
----  
-  
-From 07:00 to 18:00, Nelu made herself a routine consisting of cleaning, inventory management, and reading the books inside the ship’s cabin. At 18:01, Nelu paces from the front of the ship to the back of the ship. At 18:18, Nelu tires herself and goes to her bed.  
-  
 [^1]: **Anecho birthmarks** confirm a being's status as an anecho, though Nelu's status remains unverified until she meets Charlotte. These birthmarks illuminate under specific conditions, but Nelu’s makeup makes it difficult to observe this phenomenon, preventing us from determining whether she is using her ability.  
 [^2]: **Davits** are pivoting arms mounted on a ship, used to raise and lower boats over its side. **Block-and-tackle rigging** is a system of ropes threaded through multiple pulleys, allowing a heavy load to be lifted with less force.  
 [^3]: Lashing the helm fixes the rudder at a set angle with rope. When the sails are trimmed so that their forces balance against it, the ship holds a steady course without a helmsman, as long as the wind does not change.  

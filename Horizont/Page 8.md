@@ -4,7 +4,7 @@ share: true
 # 10·7·1126  
 11:11 — Surface position is 50° 52′ 43″ N, 6° 17′ 25″ E.  
   
-Nelu and the Old Boys, her group of 11 men aged between 17 and 68, are walking alongside a road leading to one of Dogelia’s military depot.  
+Nelu and the Mad Beers, her group of 11 men aged between 17 and 68, are walking alongside a road leading to one of Dogelia’s military depots.  
   
 11:11  
 Nelu’s yellow side of her birthmark begins illuminating.[^1]  
@@ -15,19 +15,19 @@ Gregor: <What’s coming?>
   
 Nelu: [Clearing throat] <Automobiles. They carry… Mmh—!>  
   
-Nelu has a sore throat, she’s had trouble relaying information to the Old Boys because of it.  
+Nelu has a sore throat, she’s had trouble relaying information to the Mad Beers because of it.  
   
 Gregor: <Settle down. I’ll tell everyone.>  
   
-Gregor informs the rest of the Old Boys and gets them to position.  
+Gregor informs the rest of the Mad Beers and gets them to position.  
   
 11:15  
-6 of the Old Boys are positioned on side of the road and 5 are positioned on the other side. Nelu is standing on the road 13 metres away the Old Boys position, she’s facing against the incoming supply trucks of Dogelia’s army and has her pistol hidden. The trucks are traveling at 51 kilometres per hour.  
+6 of the Mad Beers are positioned on side of the road and 5 are positioned on the other side. Nelu is standing on the road 13 metres away from the Mad Beers position, she’s facing against the incoming supply trucks of Dogelia’s army and has her pistol hidden. The trucks are traveling at 51 kilometres per hour.  
   
 11:20  
-The front driver stop and the subsequent drivers follow, they are between the Old Boys. The front driver, a soldier, sounds their horn and waits before opening the door and getting off from the truck. The soldier gets their rifle ready.  
+The front driver stops and the subsequent drivers follow, they are between the Mad Beers. The front driver, a soldier, sounds his horn and waits before opening the door and getting off from the truck. The soldier gets his rifle ready.  
   
-Tom Katz, one of the Old Boys seems anxious which appears as sweating and fidgeting of their rifle.  
+Tom Katz, one of the Mad Beers seems anxious which appears as sweating and fidgeting of their rifle.  
   
 Tom: <Why’s she not calling? Where’s—>  
   
@@ -62,25 +62,25 @@ Soldier: <Yes, but you need to get out of the road. This is a dangerous zone.>
 Nelu: [Clenching teeth] <Vermin…!>  
   
 11:23  
-Nelu’s birthmark glows and she raises her pistol to aim it at the soldier’s upper body, she fires the pistol and incapacitates him.[^1] Nelu screams in anger and the Old Boys take it as a signal to fire and so they did. The Old Boys had their rifles pointed at the windows of each truck, estimating the positions of the soldiers inside. No movement detected from inside the trucks.  
+Nelu’s birthmark glows and she raises her pistol to aim it at the soldier’s upper body, she fires the pistol and incapacitates him.[^1] Nelu screams in anger and the Mad Beers take it as a signal to fire and so they did. The Mad Beers had their rifles pointed at the windows of each truck, estimating the positions of the soldiers inside. No movement detected from inside the trucks.  
   
 Nelu approaches the front truck and figures out the truck’s door lock. Nelu goes around the truck to open the passenger side’s door and pulls out a dead soldier. The dead soldier lies down on the road while Nelu prepares her saber.  
   
-The Old Boys stand up from their positions and approaches the trucks in the same fashion as Nelu, unlocking the doors and pulling out the drivers and passengers. Nelu has her saber ready and decapitates the soldier she pulled out.  
+The Mad Beers stand up from their positions and approaches the trucks in the same fashion as Nelu, unlocking the doors and pulling out the drivers and passengers. Nelu has her saber ready and decapitates the soldier she pulled out.  
   
 Fitz: <It’s still unnerving.>  
   
-Gregor: <Don’t want an accident like last time. Oh! You weren’t there did you, Fitz?>  
+Gregor: <Don’t want an accident like last time. Oh! You weren’t there were you, Fitz?>  
   
 Fitz: <I’m surprised I didn’t question you guys’ methods, but I have seen it myself.>  
   
 Tom: <Heh, you saw a big boss?>  
   
-Tom decapitates a soldier.  
+Tom decapitates a soldier and Geese decapitates another soldier.  
   
 Fitz: <Is that what you call them? Yes, I have seen them recover, from an accident that is. They fell from a flight of stairs, head first. Which begs me to question if cutting off their heads is really necessary.>  
   
-Gregor decapitates a soldier.  
+Gregor decapitates the soldier who was shot by Nelu, Nicholas decapitates a soldier, Matt decapitates the final soldier.  
   
 Gregor: <You’d be surprised how resilient the human body is. My professor took me to a showing on how the head of a dog can still survive despite being separate from its body.>  
   
@@ -110,7 +110,7 @@ Frank: \<Yes sir!>
   
 Audrey: \<Yes sir.>  
   
-The Old Boys begin searching the trucks. Tom approaches Nelu and pats her shoulder.  
+The Mad Beers begin searching the trucks. Tom approaches Nelu and pats her shoulder.  
   
 Tom: <Hey Nelu, next time give us the heads up.>  
   
@@ -126,9 +126,10 @@ Nelu: <Oh and, tell the boys to block the road with the automobiles if they can.
   
 Tom: <Sure. Nelu says block the road with the automobiles!>  
   
-The other Old Boys answered responded in the same fashion.  
+The other Mad Beers responded in the same fashion.  
   
-Oskar and Frank found fine wine.  
+11:31  
+The soldier that was decapitated by Nelu ceased all cerebrum activity. Oskar and Frank found fine wine.  
   
 Oskar: <Oi oi oi, looks like they’re preparing a party. Nelu would like this for sure.>  
   
@@ -142,7 +143,8 @@ Oskar: <I… was thinking we should have our own share.>
   
 Frank: <Oh right…>  
   
-Fitz and Gregor found ammunition. Nelu sneaks up on Oskar and Frank.  
+11:34  
+4 other soldiers have ceased all cerebrum activity. Fitz and Gregor found ammunition. Nelu sneaks up on Oskar and Frank.  
   
 Nelu: <What’s this about getting drunk!>  
   
@@ -164,19 +166,19 @@ Nelu drinks straight from the bottle.
   
 Frank: <Slow down, Nelu. We haven’t gotten a sip of it.>  
   
-Nelu’s birthmark glows then she proceeds drink the contents of the bottle, emptying it.[^1]  
+Nelu’s birthmark glows then she proceeds to drink the contents of the bottle, emptying it.[^1]  
   
 Oskar: <Hey, grab her!>  
   
-Nelu falls unconscious due to intoxication. Gregor instructs Oskar to carry Nelu. The Old Boys travel away from the location of their attack, continuing onward to the military depot.  
+Nelu falls unconscious due to intoxication. Gregor instructs Oskar to carry Nelu. The Mad Beers travel away from the location of their attack, continuing onward to the military depot.  
   
 11:50  
 6 Dogelian soldiers are confirmed deceased through cessation of cerebrum activity.  
   
 12:30  
-The Old Boys arrives near the military depot, outside the viewing range of the guard posts and obscured by the trees.  
+The Mad Beers arrive near the military depot, outside the viewing range of the guard posts and obscured by the trees.  
   
 12:33  
-The Old Boys prepares a camp.  
+The Mad Beers prepare a camp.  
   
-[^1]: Precognitive event.  
+[^1]: Precognitive event.

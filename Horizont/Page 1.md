@@ -6,7 +6,9 @@ share: true
   
 ---  
   
-To recapitulate, Nelu had successfully stolen a merchant ship and is now exploring its contents.  
+Hello viewers, my name is Holistic, fixated, and intrepid Sabitha. Following a request to switch observers, I will be the one continuing to write insights regarding Nelu, including but not limited to, her behavior, her interactions, and her overall development.  
+  
+To recapitulate, Nelu had successfully stolen a merchant ship and is now exploring its contents. The ship is empty of any other occupants.  
   
 ---  
   
